@@ -83,7 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #252122;
+		/* Footer and mobile side bar Background color */
+		background: #272425;
 		background-image: url("images/bg02.png");
 	}
 
@@ -99,9 +100,10 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
+		/* Full website body font and color info*/
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #5d5d5d;
+		color: #000000;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
@@ -152,7 +154,8 @@ input, select, textarea {
 	}
 
 	a {
-		color: #d52349;
+		/*link colors*/
+		color: #d5234f;
 		text-decoration: underline;
 	}
 
@@ -1442,7 +1445,7 @@ input, select, textarea {
 
 	form label {
 		display: block;
-		color: #252122;
+		color: #581d2c;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -2118,7 +2121,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #d52349;
+					background: #089a98;
 					color: #fff !important;
 					font-weight: 700;
 				}
@@ -2174,7 +2177,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: url("../../images/pretty.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2185,10 +2188,10 @@ input, select, textarea {
 	}
 
 		#banner header {
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: rgba(20, 19, 20, 0.688);
 			display: inline-block;
 			padding: 2.5em 5em;
-			border-radius: 5px;
+			border-radius: 10px;
 		}
 
 			#banner header h2 {
@@ -2199,7 +2202,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #ffffff;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
