@@ -2086,7 +2086,7 @@ input, select, textarea {
 
 		#header h1 {
 			font-family: 'Griffy', cursive;
-			color: #60051b;
+			color: #000000;
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: 0.25em;
@@ -2130,7 +2130,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #089a98;
+					background: #252525;
 					color: #fff !important;
 					font-weight: 700;
 				}
@@ -2186,7 +2186,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: url("../../images/");
+		background: url("../../images/e195d407c2723203ad94b3cc9f8eef51.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
